@@ -1,4 +1,4 @@
-# Dockerized MERN Chat Application
+# Dockerized MERN Chat Application with changes for EC2 deployment
 
 A real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and containerized using Docker. This application features real-time messaging capabilities, user authentication, and a modern UI.
 
